@@ -127,15 +127,4 @@ Press `Ctrl+C` in the terminal to stop the Streamlit server.
 - **Background Processing**: Non-blocking plan generation
 - **Caching**: Streamlit's built-in caching for better performance
 
-## 🤝 Contributing
-
-This is a demonstration project showcasing AI-powered travel planning with modern web interfaces.
-
-## 📄 License
-
-This project is for educational and demonstration purposes.
-
----
-
-**Enjoy your AI-powered travel planning experience!** 🌟✈️
 
