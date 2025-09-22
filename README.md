@@ -88,7 +88,7 @@ ai_task_planner/
 - **AI Framework**: CrewAI (Multi-agent AI system)
 - **Database**: SQLite (Lightweight, file-based)
 - **Tools**: Web search, Weather forecasting
-- **APIs**: SerpAPI, OpenWeatherMap (optional)
+- **APIs**: SerpAPI, OpenWeatherMap
 
 ## 🎯 Key Components
 
@@ -138,3 +138,4 @@ This project is for educational and demonstration purposes.
 ---
 
 **Enjoy your AI-powered travel planning experience!** 🌟✈️
+
